@@ -3,21 +3,14 @@
     color: aqua;
     font-family: 'Dancing Script', cursive;font-family: 'Dancing Script', cursive;
     font-size: 28px;
-    
-    
-}
-
-/*.bs-txt{
-    font-size: 50px;
-    margin-left: 30px;
-}*/
-
-body  {
     background-image: url("porsche_911_carrera_rsr_porsche_sports_car_139640_3840x2400.jpg");
     background-color: #cccccc;
     background-size: 100%;
     background-size: cover;
-  }
+        
+}
+
+
 
 nav ul li {
     font-size: 20px;
