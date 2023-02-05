@@ -1,0 +1,159 @@
+body  {
+    background-image: url("C:/Users/Admin/OneDrive/Desktop/Project IWT-a.k.a(CT)/images/porsche_911_carrera_rsr_porsche_sports_car_139640_3840x2400.jpg");
+    background-color: #cccccc;
+    background-size: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+li {
+    font-size: 20px;
+    display: inline;
+    padding-right: 25px;
+    text-decoration: none;
+}
+
+nav ul {
+    text-align: right;
+    text-decoration: none;
+}
+nav ul li a {
+    text-decoration: none;
+    color: aqua;
+    font-family: 'Dancing Script', cursive;font-family: 'Dancing Script', cursive;
+    margin-top: 10px;
+}
+
+nav ul li a:hover{
+    color: rgba(248, 51, 173, 0.767);
+}
+
+.bs-txt1 {
+    font-family: 'Dancing Script', cursive;font-family: 'Dancing Script', cursive;
+    color: aqua;
+}
+
+.bs-txt2 {
+    font-family: 'Dancing Script', cursive;font-family: 'Dancing Script', cursive;
+    color: aqua;
+}
+
+p {
+    font-family: 'Dancing Script', cursive;font-family: 'Dancing Script', cursive;
+    color: aqua;
+    margin-left: 140px;
+}
+
+.bs-img1{
+
+    width: 1050px;
+    height: 650px;
+	margin-left: 100px;
+}
+
+.bs-img2{
+
+    width: 1050px;
+    height: 650px;
+	margin-left: 100px;
+}
+
+.bs-img3{
+
+    width: 1050px;
+    height: 650px;
+	margin-left: 100px;
+}
+
+.bs-img4{
+
+    width: 1050px;
+    height: 650px;
+	margin-left: 100px;
+}
+
+.bs-img5{
+
+    width: 1050px;
+    height: 650px;
+	margin-left: 100px;
+}
+
+.bs-img6{
+
+    width: 1050px;
+    height: 650px;
+	margin-left: 100px;
+}
+
+.bs-img7{
+
+    width: 1050px;
+    height: 650px;
+	margin-left: 100px;
+}
+
+.bs-img8
+{
+
+    width: 1050px;
+    height: 650px;
+	margin-left: 100px;
+}
+
+.bs-img9{
+
+    width: 1050px;
+    height: 650px;
+	margin-left: 100px;
+}
+
+.bs-img10{
+
+    width: 1050px;
+    height: 650px;
+	margin-left: 100px;
+}
+
+.bs-img11{
+
+    width: 1050px;
+    height: 650px;
+	margin-left: 100px;
+}
+
+.bs-img12{
+
+    width: 1050px;
+    height: 650px;
+	margin-left: 100px;
+}
+
+.bs-img13{
+
+    width: 1050px;
+    height: 650px;
+	margin-left: 100px;
+}
+
+.bs-img14{
+
+    width: 1050px;
+    height: 650px;
+	margin-left: 100px;
+}
+
+.bs-img15{
+
+    width: 1050px;
+    height: 650px;
+	margin-left: 100px;
+}
+
+.bs-img16{
+
+    width: 1050px;
+    height: 650px;
+	margin-left: 100px;
+}
